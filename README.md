@@ -1,4 +1,4 @@
-# Integrating Alz-SDoH info from EHR and literature via knowledge graphs and LLMs 
+# Integrating Alz-SDoH info from EHR and literature via KGs and LLMs 
 This repository holds the official code for the paper below:
 > A novel computational analysis integrating social determinants information from EHR and literature with Alzheimer’s disease biological knowledge through large language model and knowledge graphs
 
