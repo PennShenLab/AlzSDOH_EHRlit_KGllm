@@ -4,9 +4,12 @@ This repository holds the official code for the paper below:
 
 ## 🦸‍ Abstract
 **Background and Objectives:** By 2050, Alzheimer’s disease and related dementias (ADRD) are projected to affect over 100 million individuals worldwide, posing significant challenges for patients and substantial burdens on public health systems. Social determinants of health (SDoH) are nonmedical factors influencing individuals’ health outcomes including the risk of AD. The determinants encompass the conditions in which a person is born, grows, works, lives, as well as the person’s age and the broader set of factors shaping daily life. Although growing literature evidence suggests the impact of SDoH on AD is crucial for disease mechanism investigation and interventions, the current understanding of it remains very limited.
+
 **Research Design and Methods:** In this study, we present a systematic analysis to leverage the recent advancements of large language models (LLMs) and knowledge graphs to extract AD-related SDoH knowledge from scientific literature and electronic health records (EHR), integrating this knowledge further into biological knowledge for AD etiology research through knowledge graph (KG) construction and graph deep learning. We perform KG-link predictions for knowledge discovery and validate our results using multimodal biological data from single-cell RNA-seq and proteomics experiments. 
+
 **Results:** We generated an SDoH knowledge graph with around 92k triplets, integrating literature and EHR data. Through various link prediction experiments, we observed higher accuracy when integrating SDoH into knowledge graphs. Additionally, exploratory predictions uncovered potential SDoH-gene interactions, many of which were validated through differential expression analysis using proteomics and RNA-seq data. 
-Discussion and Implications: We conducted a novel knowledge graph-based analysis that integrates SDoH from both literature and EHR data to enhance link prediction in AD-related biomedical networks. Our findings highlight the potential interplay between social determinants and biological predispositions in AD and may guide more personalized, socially aware healthcare interventions.
+
+**Discussion and Implications**: We conducted a novel knowledge graph-based analysis that integrates SDoH from both literature and EHR data to enhance link prediction in AD-related biomedical networks. Our findings highlight the potential interplay between social determinants and biological predispositions in AD and may guide more personalized, socially aware healthcare interventions.
 
 ## 📝 Install
 The framework is implemented in Python. Please make sure to install the related packages, use
