@@ -20,7 +20,7 @@ pip install -r requirements.txt
 ## 🔨 Usage
 Process literature:
 ```cmd
-main.py
+python main.py <data_path> <model>
 ```
 Create literature SDoH KG with main.py results:
 ```cmd
