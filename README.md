@@ -18,10 +18,11 @@ pip install -r requirements.txt
 ```
 
 ## 🔨 Usage
-The main program entrance is the :
+Process literature:
 ```cmd
-
+main.py
 ```
+
 
 ## :file_cabinet: Data
 The EHR data we used in this study are collected from the MIMIC-III Clinical Database <https://physionet.org/content/mimiciii/1.4/>; and the literature data are obtained from PubMed search engine. The proteomics data we used are collected from the Accelerating Medicines Partnership for Alzheimer’s Disease (AMP-AD) Diverse Cohorts and the Religious Orders Study and Memory and Aging Project (ROSMAP), both available in Synapse (AMP-AD: https://www.synapse.org/Synapse:syn59611693; ROSMAP: https://www.synapse.org/Synapse:syn21261728). The single-cell RNA sequencing data are publicly available from the Seattle Alzheimer's Disease Brain Cell Atlas (SEA-AD) and downloaded from https://cellxgene.cziscience.com/collections/1ca90a2d-2943-483d-b678-b809bf464c30. 
