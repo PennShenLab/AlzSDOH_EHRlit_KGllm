@@ -22,6 +22,22 @@ Process literature:
 ```cmd
 main.py
 ```
+Create literature SDoH KG with main.py results:
+```cmd
+makegraph.ipynb
+```
+Build EHR KG with MIMIC-III:
+```cmd
+EHRgraph.ipynb
+```
+Combine literature and EHR KG:
+```cmd
+merge_graph.ipynb
+```
+Generate data for Graph Neural Network:
+```cmd
+createGCN.ipynb
+```
 
 
 ## :file_cabinet: Data
